@@ -1,7 +1,0 @@
-C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\HW5\Dictionaries\bin\Debug\Dictionaries.exe.config
-C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\HW5\Dictionaries\bin\Debug\Dictionaries.exe
-C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\HW5\Dictionaries\bin\Debug\Dictionaries.pdb
-C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\HW5\Dictionaries\obj\Debug\Dictionaries.csproj.AssemblyReference.cache
-C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\HW5\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
-C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\HW5\Dictionaries\obj\Debug\Dictionaries.exe
-C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\HW5\Dictionaries\obj\Debug\Dictionaries.pdb
