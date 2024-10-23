@@ -1,0 +1,7 @@
+C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\P6\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\P6\Calculator\bin\Debug\Calculator.exe
+C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\P6\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\P6\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\P6\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\P6\Calculator\obj\Debug\Calculator.exe
+C:\Users\Thomas Nguyen\Dropbox\My PC (DESKTOP-0TGJV2T)\Downloads\MIS3013\P6\Calculator\obj\Debug\Calculator.pdb
