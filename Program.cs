@@ -68,7 +68,7 @@ namespace DicePlay
 
             // output
             rate = (win / (win + loss)) * 100;
-            Console.WriteLine($"\nSuccess rate: {rate}%");
+            Console.WriteLine($"\nSuccess rate: {rate.ToString("N2")}%");
             Console.WriteLine("\nActual results: ");
             Console.WriteLine("one -- " + one);
             Console.WriteLine("two -- " + two);
